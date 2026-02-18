@@ -1,6 +1,4 @@
 # Bank-Marketing-Prediction
-# 📊 Bank Marketing – Previsão de Subscrição de Depósitos a Prazo
-
 ## 📌 Descrição
 
 Projeto de classificação supervisionada com o objetivo de prever a probabilidade de um cliente subscrever um depósito a prazo, com base em dados demográficos e comportamentais provenientes de campanhas de marketing bancário.
